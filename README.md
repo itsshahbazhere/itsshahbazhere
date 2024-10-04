@@ -1,29 +1,34 @@
-![logo](https://github.com/shahbazalam26/shahbazalam26/blob/main/github-banner.png)
+![logo](https://github.com/itsshahbazhere/itsshahbazhere/blob/main/github-banner.png)
 
 <h1 align="center">Hi 👋, I'm Md Shahbaz Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<br/>
+<br/>
+<br/>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="coding" width="500" align="right" />
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shahbazalam26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-- 📫 How to reach me **sa0418600@gmail.com**
-- 💬 Ask me about **Frontend Development**
+- 📫 How to reach me: **sa0418600@gmail.com**
+- 💬 Ask me about: **Frontend Development**
+- 🌐 Check out my portfolio: [Portfolio](https://github.com/itsshahbazhere/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/mdshahbazalam26" target="blank">
+  <a href="https://twitter.com/itsshahbazhere" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/shahbaz041" target="blank">
+  <a href="https://linkedin.com/in/itsshahbazhere" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/shahbaz_ibn_aadam_" target="blank">
+  <a href="https://instagram.com/itsshahbazhere" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/shahbaz041" target="blank">
+  <a href="https://www.leetcode.com/itsshahbazhere" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/shahbaz041/profile" target="blank">
@@ -62,8 +67,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbazalam26&show_icons=true&locale=en&layout=compact" alt="Most used languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsshahbazhere&show_icons=true&locale=en&layout=compact" alt="Most used languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazalam26&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsshahbazhere&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazalam26&" alt="GitHub Streak Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshahbazhere&" alt="GitHub Streak Stats" /></p>
