@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **sa0418600@gmail.com**
 - 💬 Ask me about: **Frontend Development**
-- 🌐 Check out my portfolio: [Portfolio](https://github.com/itsshahbazhere/Portfolio)
+- 🌐 Check out my portfolio: [Portfolio](https://itsshahbazhere.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
