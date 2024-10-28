@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="coding" width="500" align="right" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoined&weight=300&duration=1000&vCenter=true&multiline=true&width=700&height=350&separator=%3F&lines=import+React%2C+%7B+useState+%7D+from+'react';%3Fconst+Counter+%3D+()+%3D%3E+%7B%3F++const+%5Bcount%2C+setCount%5D+%3D+useState(0);%3F++return+(%3F++++%3Cdiv%3E%3F++++++%3Ch1%3ECount%3A+%7Bcount%7D%3C%2Fh1%3E%3F++++++%3Cbutton+onClick%3D%7B()+%3D%3E+setCount(count+%2B+1)%7D%3EIncrement%3C%2Fbutton%3E%3F++++%3C%2Fdiv%3E%3F++);%3F%7D;%3Fexport+default+Counter;)](https://git.io/typing-svg)
 
 
 <p align="left"> 
